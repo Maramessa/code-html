@@ -2,6 +2,43 @@
 
 You can use the [editor on GitHub](https://github.com/Maramessa/code-html/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+The <HTML> is a markup language which is used by the browser to manipulate text, images and other content to display it in required format.
+
+# Tags in HTML: Tags are one of the most important part in an HTML Document. HTML uses some predefined tags which tells the browser about content display property, that is how to display a particular given content. For Example, to create a paragraph, one must use the paragraph tags(<p> </p>) and to insert an image one must use the img tags(<img />).
+## new HTML5 Elements
+The most interesting new HTML5 elements are: 
+
+1- New semantic elements like <header>, <footer>, <article>, and <section>.
+
+New attributes of form elements like number, date, time, calendar, and range.
+
+New graphic elements: <svg> and <canvas>.
+
+New multimedia elements: <audio> and <video>.
+
+# Many web sites contain HTML code like: <div id="nav"> <div class="header"> <div id="footer">
+to indicate navigation, header, and footer.
+
+HTML5 offers new semantic elements to define different parts of a web page:
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+ ## HTML5 <nav> Element
+  
+
+
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
